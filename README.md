@@ -48,12 +48,11 @@ Issues
 
 **Sample Utterances**
 
-    ArduinoIntent what is the {temperature|sensor} here
-    ArduinoIntent what is the {humidity|sensor} here
-    ArduinoIntent turn {on|onoff} {red|light} light
-    ArduinoIntent turn {on|onoff} {green|light} light
-    ArduinoIntent turn {off|onoff} {red|light} light
-    ArduinoIntent turn {off|onoff} {green|light} light
+    ArduinoIntent turn {on|onoff}
+    ArduinoIntent turn {on|onoff}
+    ArduinoIntent turn {on|onoff} {red|light}
+    ArduinoIntent turn {on|onoff} {green|light}
+    ArduinoIntent turn {off|onoff} light
     
     ArduinoIntent {red|light} 
     ArduinoIntent {green|light} 
